@@ -52,7 +52,7 @@ You are invited to work in a self-selected team of two or three. Alternatively, 
 
 ## Project Ideas
 
-You are welcome to reuse existing code but you must either customize it or extend it. Taking existing code and just getting it to work does not constitute a project! Below are some ideas and resources, you are welcome to use your own search wizardry to find other helpful resources.
+You are welcome to reuse existing code but you must either customize it or extend it. Taking existing code and just getting it to work does not constitute a project! Below are some ideas and resources, you are welcome to use your own search wizardry to find other helpful resources and create your own project ideas.
 
 ### gopigo
 
@@ -84,11 +84,11 @@ You are welcome to reuse existing code but you must either customize it or exten
 
 ## Proposal
 
-You are invited to develop a project idea by the start of the lab session on April 16th. In the proposal document, please address all TODO tags that ask you to document your idea, outline acceptance criteria, illustrate its feasibility, and indicate whether additional hardware is needed. The instructor will provide feedback soon after proposal submission and may ask to adjust the proposed idea or its acceptance criteria.
+You are invited to develop a project idea by the start of the lab session on April 16th. In the proposal document, please address all TODO tags that ask you to document your idea, outline acceptance criteria, illustrate its feasibility, and indicate whether additional hardware is needed. The instructor will provide feedback soon after proposal submission and may ask to adjust the proposed idea or its acceptance criteria. All extraneous text (instructions) must be removed from the proposal document (except for headings).
 
 ## Working Prototype and Progress Report
 
-During the lab session on Tuesday, April 23rd, each team will participate in demonstrating their working prototype. Prototype here means a functional but not a final version of a robotic system. This prototype should contain implementation of partial functionality of your project idea. You are also responsible for complete a progress report document by the end of the lab session on April 23rd.
+During the lab session on Tuesday, April 23rd, each team will participate in demonstrating their working prototype. Prototype here means a functional but not a final version of a robotic system. This prototype should contain implementation of partial functionality of your project idea. You are also responsible for complete a progress report document by the end of the lab session on April 23rd. All extraneous text (instructions) must be removed from the progress report (except for headings).
 
 ## Final Deliverables
 

@@ -5,7 +5,7 @@
     - description: Write a minimum number of meaningful words (300) in the proposal
       check: CountFileWords
       options:
-        count: 200
+        count: 300
         exact: false
     - description: Confirm that the proposal file has the correct number of headers (5)
       check: CountMarkdownTags

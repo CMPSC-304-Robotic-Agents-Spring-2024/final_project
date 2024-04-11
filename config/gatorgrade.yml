@@ -2,7 +2,7 @@
 - writing/proposal.md:
     - description: Ensure that report.md file exists in the writing/ directory
       check: ConfirmFileExists
-    - description: Write a minimum number of meaningful words (200) in the report
+    - description: Write a minimum number of meaningful words (200) in the proposal
       check: CountFileWords
       options:
         count: 200
@@ -28,7 +28,7 @@
 - writing/progress.md:
     - description: Ensure that progress.md file exists in the writing/ directory
       check: ConfirmFileExists
-    - description: Write a minimum number of meaningful words (300) in the report
+    - description: Write a minimum number of meaningful words (300) in the progress
       check: CountFileWords
       options:
         count: 300
@@ -60,7 +60,7 @@
 - writing/report.md:
     - description: Ensure that report.md file exists in the writing/ directory
       check: ConfirmFileExists
-    - description: Write a minimum number of meaningful words (1000) in the report
+    - description: Write a minimum number of meaningful words (800) in the report
       check: CountFileWords
       options:
         count: 800

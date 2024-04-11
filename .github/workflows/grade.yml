@@ -30,7 +30,6 @@ jobs:
         # Run the mdl linting tool
         # Refers to .mdlrc file in repository
         - name: Run Markdown Linting
-          if: matrix.os == 'ubuntu-latest'
           uses: actionshub/markdownlint@main
         - name: Check Spelling
           uses: zwaldowski/cspell-action@v1

@@ -10,7 +10,6 @@
 - [Project Ideas](#project-ideas)
   - [GoPiGo3](#gopigo)
   - [Bebop](#bebop)
-  - [evoarm](#evoarm)
   - [turtlebot](#turtlebot)
   - [robot simulation](#robot-simulation)
 - [Proposal](#proposal)

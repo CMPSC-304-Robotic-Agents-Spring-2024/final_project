@@ -2,7 +2,7 @@
 - writing/proposal.md:
     - description: Ensure that proposal.md file exists in the writing/ directory
       check: ConfirmFileExists
-    - description: Write a minimum number of meaningful words (200) in the proposal
+    - description: Write a minimum number of meaningful words (300) in the proposal
       check: CountFileWords
       options:
         count: 200

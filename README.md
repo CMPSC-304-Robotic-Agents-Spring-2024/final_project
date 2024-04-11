@@ -23,7 +23,7 @@
 
 Activity                                                                      | Deadline
 ----------------------------------------------------------------------------- | ------------------------------------------
-Create a team and complete proposal (including any additional hardware needs) | by 4:20pm on Tuesday, April 16th, 2024
+Create a team and complete proposal (including any additional hardware needs) | by 9am on Tuesday, April 16th, 2024
 Working prototype demonstrations | 2:30pm-4:20pm on Tuesday, April 23rd, 2024
 Completed progress report    | by 4:20pm on Tuesday, April 23rd, 2024
 Final demo video and submission                                                     | by 11:59pm on Thursday, May 2nd, 2024
@@ -48,7 +48,7 @@ You are invited to work in a self-selected team of two or three. Alternatively, 
 2. Your project must be developed for a specific application using a robotic system. You need to research the problem you select to get an idea of what has been already done. You must include references to existing work in your final report and justify why using your particular system is appropriate.
 3. Your project must have an implementation component but it can be either more focused on software (code) or engineering (building) or an equal balance between the two. You may write your code from scratch or reuse and extend some existing code. Obviously, anything you use that is not yours must be documented (in the source code and in the report).
 4. Your project must be extensive enough to qualify as a project (think of an extension for one of the lab projects), but not too extensive so that you can not finish it by the deadline.
-5. You must use GitHub branches and follow Pull Request process, even if working individually. A new branch must be created for each "feature" of your project. It is up to you how you define "feature". For those working in a team, team members can approve each others' PRs. For those working individually, your PRs must be approved by a TL or an instructor or a classmate from another team. Each class member needs to submit at least one PR.
+5. You must use GitHub branches and follow Pull Request process, even if working individually. A new branch must be created for each "feature" of your project. It is up to you how you define "feature". For those working in a team, team members can approve each others' PRs (except for the proposal PR, which will be approved by the instructor). For those working individually, your PRs must be approved by a TL or an instructor or a classmate from another team. Each class member needs to submit at least one PR.
 
 ## Project Ideas
 
@@ -84,7 +84,7 @@ You are welcome to reuse existing code but you must either customize it or exten
 
 ## Proposal
 
-You are invited to develop a project idea by the start of the lab session on April 16th. In the proposal document, please address all TODO tags that ask you to document your idea, outline acceptance criteria, illustrate its feasibility, and indicate whether additional hardware is needed. The instructor will provide feedback soon after proposal submission and may ask to adjust the proposed idea or its acceptance criteria. All extraneous text (instructions) must be removed from the proposal document (except for headings).
+You are invited to develop a project idea by the start of the class session on April 16th. Proposal must be completed in a branch and an appropriate PR must be made. In the proposal document, please address all TODO tags that ask you to document your idea, outline acceptance criteria, illustrate its feasibility, and indicate whether additional hardware is needed. The instructor will provide feedback soon after proposal submission and may ask to adjust the proposed idea or its acceptance criteria. All extraneous text (instructions) must be removed from the proposal document (except for headings).
 
 ## Working Prototype and Progress Report
 
